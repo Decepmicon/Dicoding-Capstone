@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/drawable/custom_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/drawable/ic_outline_help_24.xml" value="0.290625" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/drawable/rounded_edittext.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_boss_home.xml" value="0.254981884057971" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_first.xml" value="0.25" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_home2.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_letter_add.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_main.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_manager_home.xml" value="0.2" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_signup_company.xml" value="0.25" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/activity_splash_screen.xml" value="0.264" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/content_main.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/fragment_dashboard.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/fragment_first.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/fragment_notifications.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/fragment_second.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/item_drop_down.xml" value="0.2028985507246377" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/layout/item_letter.xml" value="0.4" />
+        <entry key="..\:/Users/msi/AndroidStudioProjects/MyFinalProject_Capstone/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
